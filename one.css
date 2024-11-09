@@ -19,4 +19,10 @@ body{
     background: var(--pink);
     color: #fff;
 }
-html
+.header li{
+
+    display: block;
+    width: 100%;
+}
+
+}
