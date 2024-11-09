@@ -1,0 +1,22 @@
+ @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,300;1,400;1,500%display=swap')
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+:root{
+    --pink: #FF046F ;
+--voilet: #c63BFA ;
+}
+body{
+    font-family: 'roboto', sans-serif;
+    text-transform: capitalize;
+    text-decoration: ;
+    outline: none;
+
+}
+::selection{
+    background: var(--pink);
+    color: #fff;
+}
+html
