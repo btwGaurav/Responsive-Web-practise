@@ -39,6 +39,10 @@ body{height: 100vh;
     padding: 10px 40px;
 
 }
+.main img {
+    width: 80%;
+    padding: 10px 0;
+}
 
 .footer{
     height: 4.25%;
