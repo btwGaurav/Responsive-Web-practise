@@ -52,3 +52,8 @@ body{height: 100vh;
     place-content: center ;
     color: whitesmoke;
 }
+img {
+display: block;
+max-width: 100%;
+margin-inline: auto;
+}

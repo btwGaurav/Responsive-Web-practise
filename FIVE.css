@@ -1,0 +1,16 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+body{
+   background: rebeccapurple;
+
+}
+@media (min-width){}
+
+@media screen and (min-width: 600px) {
+    body{
+        background: orangered;
+    }
+}
+    
+}

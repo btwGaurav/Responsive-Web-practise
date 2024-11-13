@@ -36,8 +36,8 @@
 
      //string
 
-     let str ="Apnacollege";
-     console.log(str);
-     
-     console.log("apna\n college");
+     let userName= prompt("Enter your full name");
+     let id = "@" + userName + userName.length
+    console.log(id);
+    
      
