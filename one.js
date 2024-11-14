@@ -36,8 +36,8 @@
 
      //string
 
-     let userName= prompt("Enter your full name");
-     let id = "@" + userName + userName.length
-    console.log(id);
+//      let userName= prompt("Enter your full name");
+//      let id = "@" + userName + userName.length
+//     console.log(id);
     
      
